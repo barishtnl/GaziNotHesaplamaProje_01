@@ -1,0 +1,1 @@
+A C# console application to calculate student grades. It processes midterm and final scores, applies weighted averages, and assigns letter grades. A simple, efficient, and user-friendly tool for academic performance tracking.
